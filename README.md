@@ -1,3 +1,6 @@
 - 👋 Hi, I’m @Maskil
-- If you want to know the truth of the universe, decode this with [type: JWT, algorithm: HS256].
-eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtZXNzYWdlIjpbIllvdSBkZWNvZGVkIGl0ISBHb29kIGpvYiEiLCJUaGUgbGFzdCB0aGluZyB5b3UgbmVlZCB0byBkbyBpcyBnbyB0byB0aGlzIHdlYnNpdGUuIiwiSXQgaXMgdGhlIFRSVVRIIG9mIHRoZSB1bml2ZXJzZS4iLCJodHRwczovL3d3dy5taWNyb3NvZnQuY29tL2VuLXVzL2Qvc3VyZmFjZS1sYXB0b3Atc3R1ZGlvLzhzcmRmNjJzd2twZiIsIkl0J3MgZnJlZSB0byBrbm93IHRoZSB0cnV0aCwgYnV0IGFueSBkb25hdGlvbnMgd2lsbCBiZSBhcHByZWNpYXRlZCEiXSwiQmFuayI6IlNNQkMo5LiJ5LqV5L2P5Y-L6YqA6KGMKSIsIkJyYW5jaCI6IumYv-S9kOODtuiwty9Bc2FnYXlhLzc5MiIsIkFjY291bnQiOiI3OTUxOTMzIiwiVHlwZSI6IuaZrumAmi9vcmRpbmFyeS9zYXZpbmdzIGFjY291bnQifQ.So1KVFP2sB0-RXIv74v1QMDQ5s4SkW13XWOqoPwPo4w
+- Please give me money 🙏
+Bank: SMBC(三井住友銀行)
+Branch: 阿佐ヶ谷/Asagaya/792
+Account: 7951933
+Type: 普通/ordinary/savings account
